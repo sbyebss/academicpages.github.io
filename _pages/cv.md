@@ -19,7 +19,7 @@ redirect_from:
   Jan. 2020 ~ Now  
   GPA: 4.0/4.0  
   Instructor: [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/)  
-  Courses: COMP553 Algorithmic Game Theory (B+), CIVE648 Sp Topics in Civil Eng (A), CIVE540 Urban Transportation Planning (A-), COMP551 Applied Machine Learning (A), COMP767 Reinforcement Learning (A)
+  Courses: AE 8803 Optimal Transport Theory, ISYE 6663 Nonlinear Optimization, CS 7750 Math Foundation Of Machine Learning, MATH 6337 Real Analysis I, MATH 7251 High-Dim Probability, CS 7643 Deep Learning.
 
 - **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University**  
   Sept. 2015 ~ July. 2019
