@@ -26,7 +26,7 @@ redirect_from:
   Bachelor of Engineering, School of Mechanical Engineering  
   GPA: 90.20/100 Rank: 3/152
 
-- **Research assistant in Mechanical Engineering, University of Illinois at Urbana-Champaign**  
+- **Research intern in Mechanical Engineering, University of Illinois at Urbana-Champaign**  
   Aug. 2019 ~ Oct. 2019
   Supervisor: [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/)
 
