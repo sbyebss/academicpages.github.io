@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name: "Jiaojiao Fan"
-  avatar: "head.jpg"
+  avatar: "head.png"
   bio: "Your biography for the left-hand sidebar"
   location: "Atlanta, USA"
-  employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer: Georgia Institute of Technology
+  # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "http://yourfullgooglescholarurl.com"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
