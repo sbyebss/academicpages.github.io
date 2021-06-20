@@ -79,14 +79,14 @@ analytics:
 # Site Author
 author:
   name: "Jiaojiao Fan"
-  avatar: "head.png"
-  bio: "Your biography for the left-hand sidebar"
+  avatar: "head.jpg"
+  bio: "PhD in machine learning"
   location: "Atlanta, USA"
-  employer: Georgia Institute of Technology
+  employer: GaTech
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
-  email:
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar: "https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en&oi=ao"
+  email: jiaojiaofan@gatech.edu
+  # researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
   codepen:
