@@ -2,7 +2,7 @@
 title: "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks. "
 collection: conference
 permalink: /publication/barycenter
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
+# excerpt: "This paper is about the number 1. The number 2 is left for future work."
 date: 2021-07-24
 venue: "ICML"
 paperurl: "https://arxiv.org/abs/2007.04462"
