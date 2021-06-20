@@ -13,3 +13,7 @@ redirect_from:
 My research interest lies in the interdisciplinary combination of optimal transport, high dimensional probability and machine learning with applications to provable machine learning and geometries on probability distributions.
 
 Here is my [CV](http://sbyebss.github.io/files/Research_CV.pdf).
+
+### Recent updates
+
+- May 2021: Paper: Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks accepted by ICML 2021 long talks!
