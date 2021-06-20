@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks."  
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.  
-International Conference on Machine Learning (_ICML_) 2021. <span style="color:blue">some _blue_ text</long talk 3%>.
+International Conference on Machine Learning (_ICML_) 2021. <span style="color:blue">some _long talk 3%_ text</span>.
 
 <!-- ## Non-peer reviewed academic content
 
