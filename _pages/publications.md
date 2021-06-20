@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Preprints
 
 "Scalable Computation of Monge Maps with General Costs." \\
-**Jiaojiao Fan\***, Shu Liu*, Shaojun Ma*, Yongxin Chen, Haomin Zhou.
+**Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
 under review 2021.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
 
