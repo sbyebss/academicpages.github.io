@@ -82,37 +82,37 @@ author:
   avatar: "head.jpg"
   bio: "PhD in machine learning"
   location: "Atlanta, USA"
-  employer: GaTech
+  employer: "GaTech"
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en&oi=ao"
-  email: jiaojiaofan@gatech.edu
+  email: "jiaojiaofan@gatech.edu"
   # researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
-  uri:
-  bitbucket:
-  codepen:
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
-  github: "academicpages"
-  google_plus:
-  keybase:
-  instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
-  pinterest:
-  soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
-  steam:
-  tumblr:
-  twitter: "replacethistwitterhandle"
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
+  # uri:
+  # bitbucket:
+  # codepen:
+  # dribbble:
+  # flickr:
+  # facebook:
+  # foursquare:
+  github: "sbyebss"
+  # google_plus:
+  # keybase:
+  # instagram:
+  # impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm:
+  linkedin: "https://www.linkedin.com/in/jiaojiao-fan-9a1a14162/?locale=en_US"
+  # orcid: "http://orcid.org/yourorcidurl"
+  # pinterest:
+  # soundcloud:
+  # stackoverflow: # http://stackoverflow.com/users/123456/username
+  # steam:
+  # tumblr:
+  # twitter: "replacethistwitterhandle"
+  # vine:
+  # weibo:
+  # xing:
+  # youtube:
+  # wikipedia:
 
 # Reading Files
 include:
@@ -185,16 +185,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: ""
@@ -203,14 +203,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -221,22 +221,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
