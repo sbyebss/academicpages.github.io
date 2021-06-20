@@ -8,8 +8,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
-"Stein particle filtering."  
-**Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.
+"Scalable Computation of Monge Maps with General Costs."  
+**Jiaojiao Fan\***, Shu Liu*, Shaojun Ma*, Yongxin Chen, Haomin Zhou.
 under review 2021.
 
 "Stein particle filtering."  
