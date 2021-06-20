@@ -6,11 +6,26 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-## Academic publications
+## Preprints
+
+"Stein particle filtering."  
+**Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.
+under review 2021.
+
+"Stein particle filtering."  
+**Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.
+under review 2021.
+
+## Publications
 
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks."  
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.  
 International Conference on Machine Learning (_ICML_) 2021. <span style="color:red">_(long talk 3%)_</span>.
+[arXiv](https://arxiv.org/abs/2007.04462)
+
+"Watch for failing Objects: What Inappropriate Compliance Reveals about Shared Mental Models in Autonomous Cars."
+Yosef Razin, Jack Gale, **Jiaojiao Fan**, Jaznae' Smith, Karen Feigh
+Human Factors and Ergonomics Society (_HFES_) Annual Meeting 2021
 
 <!-- ## Non-peer reviewed academic content
 
