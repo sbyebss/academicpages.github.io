@@ -23,7 +23,6 @@ redirect_from:
 
 - **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University**  
   Sept. 2015 ~ July. 2019
-  Bachelor of Engineering, School of Mechanical Engineering  
   GPA: 90.20/100 Rank: 3/152
 
 - **Research intern in Mechanical Engineering, University of Illinois at Urbana-Champaign**  
