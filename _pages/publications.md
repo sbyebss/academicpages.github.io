@@ -15,7 +15,8 @@ under review 2021.\\
 
 "Stein particle filtering." \\
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.\\
-under review 2021.
+under review 2021.\\
+[[arXiv]](https://arxiv.org/abs/2106.10568)
 
 ## Publications
 
